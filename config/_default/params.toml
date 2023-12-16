@@ -21,11 +21,11 @@ fingerprintAlgorithm = "sha256"
 layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
 # logo = "img/logo.jpg"
 # logoDark = "img/dark-logo.jpg"
-showTitle = false # Basically the logo, hidden for now since I don't have one
+showTitle = true # Basically the logo
 
 [footer]
-showCopyright = false          # hide for now since no license
-showThemeAttribution = true
+showCopyright = true
+showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = true
 
@@ -38,7 +38,7 @@ recentLimit = 5
 showDate = true
 showDateUpdated = false
 showAuthor = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 # editURL = "https://github.com/username/repo/"
