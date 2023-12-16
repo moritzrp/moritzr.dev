@@ -11,31 +11,38 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
+name = "About"
+pageRef = "about"
+weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+name = "CV"
+pageRef = "cv"
+weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+name = "Contact"
+pageRef = "contact"
+weight = 30
 
 [[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
+identifier = "search"
+weight = 99
+[main.params]
+action = "search"
 
 [[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+identifier = "appearance"
+weight = 99
+[main.params]
+action = "appearance"
+# icon = "appearance"
+
+[[main]]
+identifier = "locale"
+weight = 100
+[main.params]
+action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
