@@ -4,7 +4,8 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Moritz Ruprecht"
-copyright = "Copy, _right?_ :thinking_face:"
+# TODO: Update after looking into licenses
+# copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
 dateFormat = "2 January 2006"
