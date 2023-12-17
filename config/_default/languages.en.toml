@@ -17,7 +17,7 @@ description = "My awesome website"
 name = "Moritz Ruprecht"
 # TODO: Include headshot
 #image = "img/author.jpg"
-headline = "I'm only human"
+headline = "If there's a problem, I'll solve it; if there's no solution, I'll innovate one."
 bio = "A little bit about you"
 links = [
   # { email = "mailto:hello@your_domain.com" },
