@@ -24,7 +24,8 @@ layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
 showTitle = true # Basically the logo
 
 [footer]
-showCopyright = true
+# ? License or clean look?
+showCopyright = false
 showThemeAttribution = false
 showAppearanceSwitcher = false
 showScrollToTop = true
