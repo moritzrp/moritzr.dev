@@ -17,7 +17,7 @@ description = "My awesome website"
 name = "Moritz Ruprecht"
 # TODO: Include headshot
 #image = "img/author.jpg"
-headline = "Solving problems | Developing solutions | Deploying applications"
+headline = "DevOps & Software Development"
 bio = "A little bit about you"
 links = [
   # { email = "mailto:hello@your_domain.com" },
