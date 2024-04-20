@@ -15,9 +15,8 @@ description = "My awesome website"
 
 [author]
 name = "Moritz Ruprecht"
-# TODO: Include headshot
-#image = "img/author.jpg"
-headline = "DevOps & Software Development"
+image = "headshot.jpg"
+headline = "DevOps Engineer"
 bio = "A little bit about you"
 links = [
   # { email = "mailto:hello@your_domain.com" },
